@@ -1,0 +1,22 @@
+# Cursor Rules
+- Always read `docs/MASTER_CONTEXT.md` first.
+- Recreate / operate from `docs/RUNBOOK.md`.
+- Log sessions in `docs/PROGRESS.md`. App facts in `docs/settings/`.
+- GitHub: https://github.com/ixamal/ix_bangers — docs + exported plans. Never commit audio, stems, NML, TSI, XML libraries, or master.db.
+- Git authorship: David alone. No `Co-authored-by: Cursor`, `Made-with: Cursor`, or any Cursor trailer.
+- Bangers stays in **dry mode** until David says commit. Close Rekordbox before any `rb_*` write.
+- Do not reorganize `~/Music/stems_audio` or `~/Music/Music/Media.localized` without a plan in `plans/`.
+- Mixer = https://github.com/ixamal/blackhole. Stem CLI = https://github.com/ixamal/stems. Remaps = https://github.com/ixamal/music_migration.
+
+# Rig
+- Machine: David / Mac (Apple Silicon), host `ix`
+- MCP: bangersss-mcp via `.cursor/mcp.json` (Homebrew Node)
+- Traktor Pro 4.5.1, Rekordbox 7, Apple Music, stems tree on disk
+
+# Phases
+1. MCP loads. Dry scan of a tiny folder.
+2. Rekordbox read-only connect.
+3. Written plan before any library execute.
+
+# Journal
+- Narrative → docs/PROGRESS.md; architecture → docs/MASTER_CONTEXT.md; how-to → docs/RUNBOOK.md.

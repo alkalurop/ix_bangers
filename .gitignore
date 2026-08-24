@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Secrets / env
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor
+.idea/
+*.swp
+
+# Audio / collections never belong in git
+*.mp3
+*.m4a
+*.mp4
+*.wav
+*.aiff
+*.aif
+*.flac
+*.stem.m4a
+*.stem.mp4
+*.nml
+*.tsi
+*.xml
+master.db
+!package.json

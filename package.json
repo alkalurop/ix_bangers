@@ -1,0 +1,16 @@
+{
+  "name": "ix_bangers",
+  "version": "0.0.1",
+  "private": true,
+  "description": "ixamal catalog for bangersss-mcp against stems, Apple Music, Rekordbox, and Traktor. Docs + plans only.",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bangersss-mcp": "0.3.4"
+  },
+  "allowScripts": {
+    "better-sqlite3-multiple-ciphers@12.11.1": true
+  }
+}

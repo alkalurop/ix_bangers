@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "bangersss": {
+      "command": "/opt/homebrew/bin/node",
+      "args": [
+        "/Users/david/github/ixamal/ix_bangers/node_modules/bangersss-mcp/dist/index.js"
+      ]
+    }
+  }
+}
