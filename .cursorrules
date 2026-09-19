@@ -3,7 +3,7 @@
 - Recreate / operate from `docs/RUNBOOK.md`.
 - Log sessions in `docs/PROGRESS.md`. App facts in `docs/settings/`.
 - GitHub: https://github.com/ixamal/ix_bangers — docs + exported plans. Never commit audio, stems, NML, TSI, XML libraries, or master.db.
-- Git authorship: David alone. No `Co-authored-by: Cursor`, `Made-with: Cursor`, or any Cursor trailer.
+- Git authorship: David alone. No `Co-authored-by: Cursor`, `Co-authored-by: Codex`, `Made-with: Cursor`, or any agent trailer. We vibe-code in Cursor and Codex only.
 - Bangers stays in **dry mode** until David says commit. Close Rekordbox before any `rb_*` write.
 - Do not reorganize `~/Music/stems_audio` or `~/Music/Music/Media.localized` without a plan in `plans/`.
 - Mixer = https://github.com/ixamal/blackhole. Stem CLI = https://github.com/ixamal/stems. Remaps = https://github.com/ixamal/music_migration.

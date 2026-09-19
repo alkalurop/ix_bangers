@@ -2,6 +2,8 @@
 
 David’s Bangers shop on `ix`. I point, the agent heavy-lifts, we catalog the moves. [ixamal](https://github.com/ixamal) / [alkalurops.org](https://www.alkalurops.org).
 
+**Vibe coding.** Cursor and Codex only. Git commits are David — no Cursor or Codex co-author trailers.
+
 **This repo is the integration log** — automation, markup, plans — for [bangersss-mcp](https://www.npmjs.com/package/bangersss-mcp) against the real library: stems, Apple Music, Rekordbox, Traktor. Audio stays on disk. Collections stay on disk. GitHub is notes + exported plans.
 
 The mixer is [blackhole](https://github.com/ixamal/blackhole). Stem generation is [stems](https://github.com/ixamal/stems). Path remaps are [music_migration](https://github.com/ixamal/music_migration). Do not mix those fights into this chat.
