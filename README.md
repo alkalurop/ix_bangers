@@ -1,5 +1,7 @@
 # ix_bangers
 
+**If you DJ:** a planning and catalog layer on top of your existing library — Rekordbox, Traktor, Apple Music, and stem folders — so you can explore and mark tracks before anything writes to a database. Dry-run by default; it exists to log *what we would change* before a live collection gets touched.
+
 David’s Bangers shop on `ix`. I point, the agent heavy-lifts, we catalog the moves. [ixamal](https://github.com/ixamal) / [alkalurops.org](https://www.alkalurops.org).
 
 **Vibe coding.** Cursor and Codex only. Git commits are David — no Cursor or Codex co-author trailers.
